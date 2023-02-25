@@ -1,0 +1,100 @@
+.App {
+  text-align: center;
+}
+
+.from {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.from label{
+  font-size: large;
+  color: black;
+  font-weight: 600; 
+}
+.input1 {
+  width: 300px;
+  height: 40px;
+  margin: 10px;
+  text-align: center;
+  font-size: large;
+}
+.input2 {
+  width: 300px;
+  height: 40px;
+  margin: 10px;
+  text-align: center;
+  font-size: large;
+}
+
+.input3 {
+  width: 300px;
+  height: 40px;
+  margin: 10px;
+  text-align: center;
+  font-size: large;
+
+}
+.ekle {
+  width: 300px;
+  height: 40px;
+  margin: 10px;
+  color: black;
+  background-color: chartreuse;
+  border: none;
+  font-size: large;
+  font-weight: 00;
+}
+.yazı {
+  font-size: 15px;
+}
+.arama {
+  width: 300px;
+  height: 40px;
+  margin: 10px;
+  color: black;
+  background-color: rgb(0, 213, 255);
+  border: none;
+  font-size: large;
+  font-weight: 400;
+}
+
+.güncelle {
+  width: 105px;
+  height: 30px;
+  margin: 10px;
+  color: black;
+  background-color: yellow;
+  border: none;
+  font-size: large;
+  font-weight: 400;
+}
+.idekleme {
+  width: 50px;
+  height: 30px;
+  margin: 10px;
+  color: black;
+  font-size: large;
+  text-align: center;
+}
+.sil {
+  width: 105px;
+  height: 30px;
+  margin: 10px;
+  color: black;
+  background-color: red;
+  border: none;
+  font-size: large;
+  font-weight: 400;
+}
+
+.tabloveri {
+  width: 900px;
+  height: 50px;
+  margin: 10px;
+  border: none;
+  font-size: large;
+}
+
+
